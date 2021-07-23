@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solnishshka&label=Profile%20views&color=0e75b6&style=flat" alt="solnishshka" /> </p>
 
-- 🌱 I’m currently learning **Yandex.Praktikum (web-developer)**
+- 🌱 I’m currently working **VPA.GROUP (Junior frontend-developer)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/solnishshka?tab=repositories](https://github.com/solnishshka?tab=repositories)
 
